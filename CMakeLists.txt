@@ -5,3 +5,4 @@ cmake_minimum_required(VERSION 3.20)
 project(MyTools VERSION 1.0.0 LANGUAGES CXX)
 
 add_subdirectory(pdf2md)
+add_subdirectory(camadjust)

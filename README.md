@@ -11,3 +11,4 @@ https://github.com/alexeykhoraskin/MyTools
 | Project | Description | Language |
 |---------|-------------|----------|
 | [pdf2md](pdf2md/) | Bidirectional PDF / Markdown converter | C++20 |
+| [camadjust](camadjust/) | Real-time USB camera video stream correction | C++20 / Qt6 |
