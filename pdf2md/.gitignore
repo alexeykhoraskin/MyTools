@@ -1,0 +1,8 @@
+# Диаграмма классов: генератор и SVG-исходник не коммитим,
+# в репозитории остаётся только готовый PNG (на него ссылается README)
+docs/gen_class_diagram.py
+docs/class-diagram.svg
+
+# JetBrains IDE
+.idea/
+*.iml
